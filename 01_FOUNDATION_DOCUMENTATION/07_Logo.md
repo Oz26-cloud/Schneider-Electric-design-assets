@@ -34,16 +34,9 @@ Example: `https://raw.githubusercontent.com/Oz26-cloud/Schneider-Electric-design
 
 ---
 
-## LOGO PLACEMENT (FIXED IN MASTER SLIDE)
+## SLIDE PLACEMENT AND WORKFLOW
 
-- **Standard slides:** Right bottom corner (locked, cannot be moved)
-- **Back cover slide:** Middle of slide, towards top (locked)
-- **Size:** Fixed in master slide (no adjustments)
-- **Clear space:** Defined and enforced by master slide
-
-Logo placement, sizing, and clear space are automatically handled by PowerPoint master slides.
-
----
+PowerPoint placement rules, sizing, examples and the step-by-step workflow for this element are in `02_WORKFLOW_LAYER/21_Slide_Elements.md`.
 
 ## MINIMUM SIZE
 

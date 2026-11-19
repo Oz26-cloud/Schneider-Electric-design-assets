@@ -30,14 +30,9 @@ This tagline appears on select slides to reinforce brand messaging and positioni
 
 ---
 
-## TAGLINE PLACEMENT
+## SLIDE PLACEMENT AND WORKFLOW
 
-**Standard position:** Bottom right of slide, above or integrated with logo area
-
-**Minimum size:** 12pt Poppins Regular
-**Recommended size:** 14-18pt Poppins Regular
-
----
+PowerPoint placement rules, sizing, examples and the step-by-step workflow for this element are in `02_WORKFLOW_LAYER/21_Slide_Elements.md`.
 
 ## TAGLINE COLORS
 

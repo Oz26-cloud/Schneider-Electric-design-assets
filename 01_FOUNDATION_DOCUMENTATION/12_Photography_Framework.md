@@ -174,72 +174,9 @@ This document specifies photography guidelines, style, and usage for Schneider E
 
 ---
 
-## PHOTOGRAPHY SIZING FOR POWERPOINT
+## SLIDE PLACEMENT AND WORKFLOW
 
-### Full-Width Image
-
-**Dimensions:** 10" × variable height (maintains aspect ratio)
-- Extends to slide edges (full bleed)
-- Can overlap logo and footer (intentional design)
-- Dominant visual element on slide
-
-### Half-Width Image
-
-**Dimensions:** 4.5" - 5" × variable height
-- Paired with text or another image
-- Maintains safe content area margins
-- Equal visual weight with text
-
-### Third-Width Image
-
-**Dimensions:** 2.8" - 3.2" × variable height
-- Three-column layouts
-- Modular, repeating element
-- Icons or supplementary imagery
-
-### Thumbnail Image
-
-**Dimensions:** 1.5" - 2.0" × variable height
-- Small accent images
-- Icon-sized photos (rare)
-- Detail or close-up element
-
-**Rule:** Always scale images proportionally; never distort aspect ratio.
-
----
-
-## PHOTOGRAPHY PLACEMENT
-
-### On Solid Backgrounds
-
-**Standard placement:**
-- Within safe content area
-- Maintain margins from edges
-- White space around images
-- Text not overlapping image
-
-**Extended placement (if required):**
-- Can extend into margins
-- Can overlap logo or footer if designed intentionally
-- Full-bleed images for maximum impact
-
-### On Gradient Backgrounds
-
-**Placement considerations:**
-- Images can extend over gradient
-- Images can overlap with gradient
-- Test contrast and visibility on actual gradient
-- Ensure image focal point remains clear
-
-### With Text Overlay
-
-**When text overlays image:**
-- ✅ Use semi-transparent overlay (if needed for contrast)
-- ✅ Ensure text contrast minimum 4.5:1
-- ✅ Place text on appropriate image area (dark or light)
-- ✅ Test readability before finalizing
-
----
+PowerPoint placement rules, sizing, examples and the step-by-step workflow for this element are in `02_WORKFLOW_LAYER/21_Slide_Elements.md`.
 
 ## PHOTOGRAPHY EDITING GUIDELINES
 
@@ -338,55 +275,6 @@ Every photograph used in a presentation should have:
 
 ---
 
-## PHOTOGRAPHY WORKFLOW FOR POWERPOINT
-
-### Step 1: Identify Slide Purpose
-
-What is this slide communicating?
-- Introduction/context setting?
-- Data/information visualization?
-- Emotional connection/storytelling?
-- Product/service showcase?
-- Call-to-action moment?
-
-### Step 2: Select Image Subject
-
-**Based on slide purpose, choose subject:**
-- Technology/innovation imagery?
-- People/collaboration photography?
-- Sustainability/environmental focus?
-- Business/operations context?
-
-### Step 3: Source High-Quality Image
-
-- Minimum 1920 × 1080 pixels
-- Professional quality (sharp, well-composed)
-- Authentic, on-brand style
-- Verified license/rights
-
-### Step 4: Size for PowerPoint
-
-- Full-width (10" × aspect ratio maintained)
-- Half-width (4.5" × aspect ratio maintained)
-- Third-width (2.8-3.2" × aspect ratio maintained)
-- Maintain aspect ratio, never distort
-
-### Step 5: Position on Slide
-
-- Respect safe content area (typical)
-- Can extend into margins if design requires
-- Can overlap logo/footer if intentional
-- Test final placement in context
-
-### Step 6: Verify Readability
-
-- If text overlays image, test contrast (4.5:1 minimum)
-- Ensure image focal point is clear
-- Test on projected display
-- Verify in actual slide context
-
----
-
 ## PHOTOGRAPHY DO'S AND DON'Ts
 
 ### ✅ DO
@@ -410,44 +298,6 @@ What is this slide communicating?
 - ❌ Overlay illegible text without contrast testing
 - ❌ Use watermarked images (without license)
 - ❌ Place images with no purpose or context
-
----
-
-## PHOTOGRAPHY IN CONTEXT
-
-### Title/Cover Slides
-
-**Photography approach:**
-- Full-bleed image across entire slide
-- Strong, impactful visual
-- Minimal text overlay (if any)
-- Logo and footer still visible
-
-**Image type:** Bold, attention-grabbing subject (technology, team, sustainability)
-
----
-
-### Content Slides
-
-**Photography approach:**
-- Half-width or third-width images
-- Paired with text content
-- Professional, supporting role
-- Enhances narrative without dominating
-
-**Image type:** Contextual, relevant to content (equipment, people working, process)
-
----
-
-### Data/Insight Slides
-
-**Photography approach:**
-- Smaller, accent-sized images
-- Supports key insight or statistic
-- Subtle background or emphasis element
-- Hierarchy: data primary, image supporting
-
-**Image type:** Relevant visual reference (industrial, technology, sustainability)
 
 ---
 

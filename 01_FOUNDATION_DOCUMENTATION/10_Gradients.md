@@ -30,13 +30,9 @@ Gradients work best for:
 
 ---
 
-## GRADIENT TEMPLATE
+## SLIDE PLACEMENT AND WORKFLOW
 
-**PowerPoint Template:** AET_Template_-_gradient.pptx
-
-This template includes predefined gradients built into the master slide. Use this template when gradients are required.
-
----
+PowerPoint placement rules, sizing, examples and the step-by-step workflow for this element are in `02_WORKFLOW_LAYER/21_Slide_Elements.md`.
 
 ## APPROVED GRADIENT SPECIFICATIONS
 
@@ -312,96 +308,6 @@ Use online tools to verify gradient contrast:
 - WebAIM Contrast Checker (for specific points)
 - Accessibility validators (for overall slide)
 - Color blindness simulators (for universal design)
-
----
-
-## GRADIENT WORKFLOW FOR POWERPOINT
-
-### Step 1: Decide if Gradient Needed
-
-Is this a:
-- ✅ Title slide? (use gradient)
-- ✅ Section break? (consider gradient)
-- ✅ High-impact moment? (use gradient)
-- ❌ Dense content slide? (use solid background)
-- ❌ Chart/data slide? (use solid background)
-
-### Step 2: Choose Gradient Type
-
-| Message | Best Gradient |
-|---------|---------------|
-| **Energetic opening** | Gradient 1 (Life → Dark) |
-| **Professional flow** | Gradient 2 (Life → Signature) |
-| **Executive authority** | Gradient 3 (Signature → Dark) |
-| **Innovation/cutting-edge** | Gradient 4 (Life → Electric) |
-
-### Step 3: Select Gradient Template
-
-- Use AET_Template_-_gradient.pptx
-- Template automatically applies chosen gradient to all slides
-- Logo color and positioning already set
-
-### Step 4: Plan Text Content
-
-- Minimal text on gradient (focus on clarity)
-- Title + subtitle optimal; avoid body text on gradient
-- Verify text color contrast (white or Dark Green)
-- Test on projected display
-
-### Step 5: Verify Accessibility
-
-- ✅ Test contrast ratio on actual gradient
-- ✅ Ensure legibility in presentation room lighting
-- ✅ Verify on multiple devices (laptop, projector)
-- ✅ Test keyboard navigation (if interactive elements)
-
----
-
-## WHEN TO USE EACH GRADIENT
-
-### Opening/Title Slide
-
-**Best choice:** Gradient 1 (Life Green → Dark Green)
-- **Reason:** Dynamic energy for first impression
-- **Effect:** Bold, modern, brand-forward
-- **Text:** White title and subtitle
-
-**Alternative:** Gradient 2 (Life → Signature Green)
-- **Reason:** Slightly more balanced, professional energy
-
----
-
-### Section Transition Slide
-
-**Best choice:** Gradient 2 (Life Green → Signature Green)
-- **Reason:** Visual separation with balanced flow
-- **Effect:** Professional, organized presentation
-- **Text:** White title, minimal supporting text
-
-**Alternative:** Gradient 3 (Signature → Dark Green)
-- **Reason:** Grounded, structured section break
-
----
-
-### Executive/Premium Moment
-
-**Best choice:** Gradient 3 (Signature Green → Dark Green)
-- **Reason:** Professional authority and confidence
-- **Effect:** Premium, executive-level presence
-- **Text:** White, concise messaging
-
-**Alternative:** Gradient 1 (Life → Dark Green)
-- **Reason:** Balance of energy with professionalism
-
----
-
-### Innovation/Technology Content
-
-**Best choice:** Gradient 4 (Life Green → Electric Green)
-- **Reason:** Cutting-edge, forward-thinking visual
-- **Effect:** Modern, energetic, tech-focused
-- **Text:** Dark Green or Signature Green (white may not have enough contrast)
-- **Warning:** Use sparingly (very bright, can overwhelm)
 
 ---
 
