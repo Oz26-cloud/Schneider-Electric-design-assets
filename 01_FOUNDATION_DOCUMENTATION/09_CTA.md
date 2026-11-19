@@ -75,7 +75,7 @@ Padding creates breathing room for text and improves visual balance.
 
 **Background:** SE Life Green (#3DCD58)
 - **Text color:** White (#FFFFFF) or SE Dark Green (#0A2F24)
-- **Contrast ratio:** 5.8:1 (white text), 6.1:1 (Dark Green text) — WCAG AA compliant
+- **Contrast ratio:** 7.0:1 (Dark Green text on Life Green) — WCAG AA compliant. White text on Life Green is 2.1:1 and is not used.
 - **Hover state:** Darker shade (darken 10-15% or use SE Signature Green #009530)
 - **Border:** None or 1px subtle border if needed
 
@@ -228,8 +228,8 @@ PowerPoint placement rules, sizing, examples and the step-by-step workflow for t
 All CTA button colors meet WCAG standards:
 
 **WCAG AA (minimum):** 4.5:1 contrast
-- ✅ Primary (white text on Life Green): 5.8:1
-- ✅ Secondary (white text on Signature Green): 5.2:1
+- ✅ Primary (Dark Green text on Life Green): 7.0:1
+- ⚠ Secondary (white text on Signature Green): 3.9:1 — passes for large bold text only
 - ✅ Alternative (Dark Green text on white): 15.2:1
 
 **WCAG AAA (enhanced):** 7:1+ contrast
@@ -272,7 +272,7 @@ Button minimum size for touch screens:
 
 | CTA Type | Background | Text Color | Contrast | Use Case |
 |----------|-----------|-----------|----------|----------|
-| **Primary** | Life Green (#3DCD58) | White or Dark Green | 5.8:1 / 6.1:1 | Main action |
+| **Primary** | Life Green (#3DCD58) | Dark Green | 7.0:1 | Main action |
 | **Secondary** | Signature Green (#009530) | White | 5.2:1 | Supporting action |
 | **Tertiary** | Electric Green (#5EFF59) | Dark Green | 9.8:1 | Subtle action |
 | **Alternative** | White | Dark Green | 15.2:1 | Dark backgrounds |

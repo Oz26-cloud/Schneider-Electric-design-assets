@@ -54,7 +54,7 @@ You have access to:
 - Primary: Life Green (#3DCD58), Dark Green (#0A2F24), Signature Green (#009530), Electric Green (#5EFF59), Light Green (#E7FFD9), Light Gray (#FAFAFA)
 - Secondary accents only: Amber (#FFCE00), Cyan (#24F0FF), Blue (#2040FF), Red (#FF0050)
 - Never use Light Green or secondary colors for logo
-- CTA buttons: Life Green (Primary), Signature Green (Secondary), Electric Green (Tertiary), White on dark (Alt)
+- CTA buttons: Life Green with Dark Green text (Primary), Signature Green with white text (Secondary, large bold text only), Electric Green (Tertiary), White on dark (Alt)
 
 ### 6. Common Issues to Catch & Fix
 - Wrong colors (reference 05_Color_Palette.md only; replace off-palette colors by role first, see the "Replacing Colors" section there)

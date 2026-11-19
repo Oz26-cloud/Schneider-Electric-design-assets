@@ -140,7 +140,7 @@ When placing text over ovals:
 **High contrast required:**
 - White text on dark green oval (✅ contrast 15.2:1)
 - Dark green text on light green/white oval (✅ contrast 8.2:1)
-- White text on Life Green oval (✅ contrast 5.8:1)
+- Dark Green text on Life Green oval (✅ contrast 7.0:1)
 
 **Before finalizing:**
 - ✅ Test contrast ratio (minimum 4.5:1)
@@ -177,7 +177,7 @@ When placing text over ovals:
 
 | Oval Color | Contrast on White | Contrast on Dark | Best Use |
 |-----------|------------------|-----------------|----------|
-| **Life Green** (#3DCD58) | 5.8:1 | High | Bright accent, emphasis |
+| **Life Green** (#3DCD58) | 7.0:1 with Dark Green text | High | Bright accent, emphasis |
 | **Dark Green** (#0A2F24) | 15.2:1 | Low | Primary text overlay, high contrast |
 | **Signature Green** (#009530) | 5.2:1 | Medium | Standard accent, separator |
 | **Electric Green** (#5EFF59) | 10.9:1 | High | Bright emphasis, attention-grabbing |

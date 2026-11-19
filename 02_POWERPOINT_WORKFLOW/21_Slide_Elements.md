@@ -95,11 +95,11 @@ Logo placement, sizing, and clear space are automatically handled by PowerPoint 
 
 #### White Background Template
 
-**Primary CTA:** Life Green button, white text, center-bottom placement
+**Primary CTA:** Life Green button, Dark Green text, center-bottom placement
 **Secondary CTA:** Signature Green button, white text, below primary
 
 **Example:**
-- Button 1: Life Green (#3DCD58), white text, "Explore solutions"
+- Button 1: Life Green (#3DCD58), Dark Green text, "Explore solutions"
 - Button 2: Signature Green (#009530), white text, "Contact us"
 
 #### Dark Green Background Template
@@ -123,11 +123,11 @@ Logo placement, sizing, and clear space are automatically handled by PowerPoint 
 #### Gradient Background Template
 
 **Primary CTA:** White button, Dark Green text, prominent placement
-**Secondary CTA:** Life Green button, white text
+**Secondary CTA:** Life Green button, Dark Green text
 
 **Example:**
 - Button 1: White, Dark Green text, "Start now"
-- Button 2: Life Green, white text, "Learn more"
+- Button 2: Life Green, Dark Green text, "Learn more"
 
 ---
 

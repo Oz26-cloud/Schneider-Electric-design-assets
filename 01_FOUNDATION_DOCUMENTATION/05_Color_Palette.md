@@ -92,7 +92,7 @@ Secondary colors complement the primary palette and should be used **selectively
 
 **Text contrast pairings:**
 - Dark Green on Light Gray: 15.2:1 (AAA)
-- Life Green on White: 5.8:1 (AA)
+- Life Green on White: 2.1:1 (fails for text; use for graphics and accents only)
 - Signature Green on White: 5.2:1 (AA)
 
 All color combinations must meet minimum 4.5:1 contrast for body text.

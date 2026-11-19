@@ -119,7 +119,7 @@ Never mix templates. Never change templates mid-deck.
 - Headings: Dark Green or Signature Green
 - Body text: Dark Green
 - Accents: Life Green, Signature Green
-- CTAs: Life Green buttons (strong contrast)
+- CTAs: Life Green buttons with Dark Green text (7.0:1)
 - Graphics: All approved colors work well
 
 ---
