@@ -23,7 +23,7 @@ Step 1 → Step 2 → Step 3 → Step 4
 **Option 2: Vertical Timeline**
 ```
 Q1: Phase 1
-Q2: Phase 2
+Q2: PowerPoint Workflow
 Q3: Phase 3
 Q4: Phase 4
 ```

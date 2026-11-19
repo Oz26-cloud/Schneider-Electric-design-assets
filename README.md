@@ -289,13 +289,13 @@ Before sharing any presentation:
 
 ### For the Claude Skill:
 
-The entire 35-document system (Phase 1A + Phase 2) becomes your Claude skill knowledge base.
+The entire 35-document system (Phase 1A + PowerPoint Workflow) becomes your Claude skill knowledge base.
 
 When you ask Claude: *"Help me design a Schneider Electric slide about energy efficiency"*
 
 Claude will:
 - Reference Phase 1A (foundation specs) for brand rules
-- Reference Phase 2 (workflow) to guide the design process
+- Reference the PowerPoint Workflow docs to guide the design process
 - Create presentation-ready specifications
 
 ---
