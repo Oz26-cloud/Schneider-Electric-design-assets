@@ -255,7 +255,7 @@ Before sharing any presentation:
 
 ### PHASE 2: WORKFLOW LAYER (Docs 22-37)
 
-**Workflow & Templates (23-24)**
+**Workflow & Templates (22-24)**
 - 8-step TAGWW process (Receive Brief → Send to Client)
 - Template selection guide (Decision tree by presentation type)
 
