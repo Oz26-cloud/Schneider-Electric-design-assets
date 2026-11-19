@@ -6,7 +6,7 @@
 
 ## OVERVIEW
 
-Schneider Electric's brand identity for PowerPoint presentations is rooted in innovation, sustainability, and technological leadership. This document establishes the foundational brand principles that guide all visual communications.
+Schneider Electric's brand identity is rooted in innovation, sustainability, and technological leadership. This document establishes the foundational brand principles that guide all visual communications.
 
 ---
 
@@ -28,7 +28,7 @@ To empower customers and partners through advanced energy management and automat
 
 ## BRAND PERSONALITY
 
-Schneider Electric presentations are:
+Schneider Electric communications are:
 - Professional yet approachable
 - Forward-thinking and modern
 - Trustworthy and grounded
@@ -39,7 +39,7 @@ Schneider Electric presentations are:
 
 ## VISUAL LANGUAGE
 
-All PowerPoint presentations use:
+All brand materials use:
 - **Primary color palette:** Greens (Life Green, Dark Green, Signature Green, Electric Green)
 - **Typography:** Poppins font family (modern, clean, distinctive)
 - **Imagery:** Professional, diverse, authentic
@@ -51,10 +51,10 @@ All PowerPoint presentations use:
 ## PRESENTATION PRINCIPLES
 
 ### Clarity
-Every slide communicates a single, clear message.
+Every communication has a single, clear message.
 
 ### Consistency
-All decks follow the approved template and style system.
+All materials follow the approved style system. For slides, see `02_WORKFLOW_LAYER/22_Slide_Setup.md`.
 
 ### Professionalism
 Design choices maintain brand credibility and authority.
@@ -67,15 +67,6 @@ Design feels contemporary and forward-looking while remaining timeless.
 
 ---
 
-## SLIDE PHILOSOPHY
-
-- Each slide has a purpose
-- White space is valued
-- Hierarchy is clear
-- Information is prioritized
-- Visual interest is maintained through strategic color and imagery
-
----
 
 ## REFERENCE
 
@@ -86,4 +77,4 @@ See related documents:
 
 ---
 
-**This foundation ensures every presentation reflects Schneider Electric's commitment to innovation and excellence.**
+**This foundation ensures every communication reflects Schneider Electric's commitment to innovation and excellence.**

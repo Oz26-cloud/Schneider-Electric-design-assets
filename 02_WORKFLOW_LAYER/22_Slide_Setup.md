@@ -58,6 +58,16 @@ Layouts use a six-column grid.
 
 ---
 
+## Slide Philosophy
+
+- Each slide has a purpose
+- White space is valued
+- Hierarchy is clear
+- Information is prioritized
+- Visual interest is maintained through strategic color and imagery
+
+---
+
 ## Where This Is Checked
 
 - Quality checks: `37_Quality_Checklist.md`, Sections 2 and 3.

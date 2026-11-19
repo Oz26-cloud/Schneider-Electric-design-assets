@@ -6,7 +6,7 @@
 
 ## OVERVIEW
 
-Visual identity defines how Schneider Electric appears across all PowerPoint presentations. This document establishes the visual principles, design elements, and composition approaches that make presentations instantly recognizable.
+Visual identity defines how Schneider Electric appears across all brand materials, including presentations. This document establishes the visual principles, design elements, and composition approaches that make presentations instantly recognizable.
 
 ---
 
@@ -116,4 +116,4 @@ See related documents:
 
 ---
 
-**This visual system creates professional presentations that reflect Schneider Electric's innovation and leadership.**
+**This visual system creates professional materials that reflect Schneider Electric's innovation and leadership.**
