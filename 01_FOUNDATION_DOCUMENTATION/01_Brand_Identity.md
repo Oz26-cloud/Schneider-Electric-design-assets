@@ -54,7 +54,7 @@ All brand materials use:
 Every communication has a single, clear message.
 
 ### Consistency
-All materials follow the approved style system. For slides, see `02_WORKFLOW_LAYER/22_Slide_Setup.md`.
+All materials follow the approved style system. For slides, see `02_POWERPOINT_WORKFLOW/22_Slide_Setup.md`.
 
 ### Professionalism
 Design choices maintain brand credibility and authority.

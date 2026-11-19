@@ -14,7 +14,7 @@ Brand materials use a consistent layout: content is aligned to margins and colum
 
 Slide size, margins, safe area, grid columns and footer are PowerPoint rules. They are in:
 
-**`02_WORKFLOW_LAYER/22_Slide_Setup.md`**
+**`02_POWERPOINT_WORKFLOW/22_Slide_Setup.md`**
 
 ---
 

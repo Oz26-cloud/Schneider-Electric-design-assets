@@ -18,7 +18,7 @@ You have access to:
 
 ## SOURCE OF TRUTH:
 
-- For any PowerPoint decision (slide size, text, bullets, templates, production steps), follow the workflow docs in `02_WORKFLOW_LAYER/` (Docs 21–37).
+- For any PowerPoint decision (slide size, text, bullets, templates, production steps), follow the workflow docs in `02_POWERPOINT_WORKFLOW/` (Docs 21–37).
 - `01_FOUNDATION_DOCUMENTATION/` is the general brand reference (colors, font, logo, general specs).
 - `01_FOUNDATION_DOCUMENTATION/17_PowerPoint.md` is the map to the PowerPoint rules.
 
@@ -103,7 +103,7 @@ When helping with a presentation:
 - 17_PowerPoint.md → Map of the PowerPoint production rules (Docs 21–37)
 - 18_Tagline.md → Tagline placement and usage
 
-### Workflow Documents (02_WORKFLOW_LAYER/)
+### Workflow Documents (02_POWERPOINT_WORKFLOW/)
 - 21_Slide_Elements.md → Placement, size and workflow for each element on slides
 - 22_Slide_Setup.md → Slide size, margins, text sizes, bullets, logo and footer
 - 23_Workflow_Overview.md → The 8-step TAGWW process

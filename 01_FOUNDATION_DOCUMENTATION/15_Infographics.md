@@ -182,7 +182,7 @@ Infographics use PRIMARY brand colors strategically:
 
 ## SLIDE PLACEMENT AND WORKFLOW
 
-PowerPoint placement rules, sizing, examples and the step-by-step workflow for this element are in `02_WORKFLOW_LAYER/21_Slide_Elements.md`.
+PowerPoint placement rules, sizing, examples and the step-by-step workflow for this element are in `02_POWERPOINT_WORKFLOW/21_Slide_Elements.md`.
 
 ## TEXT IN INFOGRAPHICS
 
