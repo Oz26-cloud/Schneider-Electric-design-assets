@@ -1,0 +1,98 @@
+{
+  "colors": {
+    "primary": {
+      "life_green": {
+        "name": "SE Life Green",
+        "hex": "#3DCD58",
+        "rgb": "61, 205, 88"
+      },
+      "dark_green": {
+        "name": "SE Dark Green",
+        "hex": "#0A2F24",
+        "rgb": "10, 47, 36"
+      },
+      "signature_green": {
+        "name": "SE Signature Green",
+        "hex": "#009530",
+        "rgb": "0, 149, 48"
+      },
+      "electric_green": {
+        "name": "SE Electric Green",
+        "hex": "#5EFF59",
+        "rgb": "94, 255, 89"
+      },
+      "light_green": {
+        "name": "SE Light Green",
+        "hex": "#E7FFD9",
+        "rgb": "231, 255, 217"
+      },
+      "light_gray": {
+        "name": "SE Light Gray",
+        "hex": "#FAFAFA",
+        "rgb": "250, 250, 250"
+      }
+    },
+    "secondary": {
+      "amber": {
+        "name": "SE Amber",
+        "hex": "#FFCE00",
+        "rgb": "255, 206, 0"
+      },
+      "cyan": {
+        "name": "SE Cyan",
+        "hex": "#24F0FF",
+        "rgb": "36, 240, 255"
+      },
+      "blue": {
+        "name": "SE Blue",
+        "hex": "#2040FF",
+        "rgb": "32, 64, 255"
+      },
+      "red": {
+        "name": "SE Red",
+        "hex": "#FF0050",
+        "rgb": "255, 0, 80"
+      }
+    }
+  },
+  "typography": {
+    "typeface": "Poppins",
+    "weights": {
+      "thin": 100,
+      "extralight": 200,
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800,
+      "black": 900
+    },
+    "sizes": {
+      "3xl": "22pt",
+      "2xl": "18pt",
+      "xl": "16pt",
+      "lg": "14pt",
+      "base": "10pt",
+      "sm": "8pt",
+      "xs": "6pt"
+    },
+    "line_heights": {
+      "tight": 0.9,
+      "normal": 1.0,
+      "relaxed": 1.2
+    }
+  },
+  "spacing": {
+    "margin_left": "0.51in",
+    "margin_right": "0.51in",
+    "margin_top": "0.29in",
+    "margin_bottom": "0.18in",
+    "slide_width": "10in",
+    "slide_height": "5.625in"
+  },
+  "borders": {
+    "cta_stroke": "1pt",
+    "cta_radius": "2mm"
+  }
+}

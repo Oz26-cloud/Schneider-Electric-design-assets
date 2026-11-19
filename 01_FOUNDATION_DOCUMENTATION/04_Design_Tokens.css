@@ -1,0 +1,183 @@
+/* Schneider Electric PowerPoint Design Tokens - CSS */
+
+:root {
+  /* PRIMARY COLORS */
+  --se-life-green: #3DCD58;
+  --se-dark-green: #0A2F24;
+  --se-signature-green: #009530;
+  --se-electric-green: #5EFF59;
+  --se-light-green: #E7FFD9;
+  --se-light-gray: #FAFAFA;
+  
+  /* SECONDARY COLORS (ACCENTS ONLY) */
+  --se-amber: #FFCE00;
+  --se-cyan: #24F0FF;
+  --se-blue: #2040FF;
+  --se-red: #FF0050;
+  
+  /* TYPOGRAPHY */
+  --font-family: 'Poppins', sans-serif;
+  --font-weight-thin: 100;
+  --font-weight-extralight: 200;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-extrabold: 800;
+  --font-weight-black: 900;
+  
+  /* FONT SIZES */
+  --font-size-3xl: 22pt;
+  --font-size-2xl: 18pt;
+  --font-size-xl: 16pt;
+  --font-size-lg: 14pt;
+  --font-size-base: 10pt;
+  --font-size-sm: 8pt;
+  --font-size-xs: 6pt;
+  
+  /* LINE HEIGHTS */
+  --line-height-tight: 0.9;
+  --line-height-normal: 1.0;
+  --line-height-relaxed: 1.2;
+  
+  /* SPACING */
+  --margin-left: 0.51in;
+  --margin-right: 0.51in;
+  --margin-top: 0.29in;
+  --margin-bottom: 0.18in;
+  
+  /* SLIDE DIMENSIONS */
+  --slide-width: 10in;
+  --slide-height: 5.625in;
+  --safe-width: 8.98in;
+  --safe-height: 5.155in;
+  
+  /* BORDERS & CORNERS */
+  --cta-stroke: 1pt;
+  --cta-border-radius: 2mm;
+  
+  /* CONTRAST RATIOS */
+  --contrast-wcag-aaa: 7:1;
+  --contrast-wcag-aa: 4.5:1;
+}
+
+/* TYPOGRAPHY SYSTEM */
+.heading-h1 {
+  font-family: var(--font-family);
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-tight);
+  color: var(--se-dark-green);
+}
+
+.heading-h2 {
+  font-family: var(--font-family);
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-medium);
+  line-height: var(--line-height-normal);
+  color: var(--se-dark-green);
+}
+
+.heading-h3 {
+  font-family: var(--font-family);
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-medium);
+  line-height: var(--line-height-normal);
+  color: var(--se-dark-green);
+}
+
+.body-text {
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-normal);
+  color: var(--se-dark-green);
+}
+
+.caption-text {
+  font-family: var(--font-family);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-light);
+  line-height: var(--line-height-normal);
+  color: #666;
+}
+
+/* CTA BUTTONS */
+.cta-primary {
+  background-color: var(--se-life-green);
+  color: white;
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-regular);
+  border: var(--cta-stroke) solid var(--se-life-green);
+  border-radius: var(--cta-border-radius);
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.cta-secondary {
+  background-color: var(--se-signature-green);
+  color: white;
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-regular);
+  border: var(--cta-stroke) solid var(--se-signature-green);
+  border-radius: var(--cta-border-radius);
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+/* GRADIENTS */
+.gradient-1 {
+  background: linear-gradient(135deg, var(--se-life-green), var(--se-dark-green));
+}
+
+.gradient-2 {
+  background: linear-gradient(90deg, var(--se-life-green), var(--se-signature-green));
+}
+
+.gradient-3 {
+  background: linear-gradient(180deg, var(--se-signature-green), var(--se-dark-green));
+}
+
+.gradient-4 {
+  background: linear-gradient(225deg, var(--se-life-green), var(--se-electric-green));
+}
+
+/* UTILITY CLASSES */
+.color-primary-life-green {
+  color: var(--se-life-green);
+}
+
+.color-primary-dark-green {
+  color: var(--se-dark-green);
+}
+
+.color-primary-signature-green {
+  color: var(--se-signature-green);
+}
+
+.color-primary-electric-green {
+  color: var(--se-electric-green);
+}
+
+.bg-primary-life-green {
+  background-color: var(--se-life-green);
+}
+
+.bg-primary-dark-green {
+  background-color: var(--se-dark-green);
+}
+
+.bg-primary-signature-green {
+  background-color: var(--se-signature-green);
+}
+
+/* ACCESSIBILITY */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
