@@ -1,6 +1,6 @@
 # Quality Checklist
 
-**Phase 2 Workflow Layer — Document 37**
+**PowerPoint Workflow — Document 37**
 
 ---
 

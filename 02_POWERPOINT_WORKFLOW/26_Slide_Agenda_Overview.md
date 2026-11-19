@@ -1,6 +1,6 @@
 # Slide: Agenda/Overview
 
-**Phase 2 Workflow Layer — Document 26**
+**PowerPoint Workflow — Document 26**
 
 ---
 

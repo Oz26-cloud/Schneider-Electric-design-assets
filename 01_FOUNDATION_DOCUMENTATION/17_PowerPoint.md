@@ -6,7 +6,7 @@ This document is a map. The rules for producing PowerPoint decks are in the work
 
 ---
 
-## PowerPoint Production Rules (Workflow Layer)
+## PowerPoint Production Rules (PowerPoint Workflow)
 
 | Doc | File | What it covers |
 |-----|------|----------------|

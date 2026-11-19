@@ -1,6 +1,6 @@
 # Slide: Closing
 
-**Phase 2 Workflow Layer — Document 34**
+**PowerPoint Workflow — Document 34**
 
 ---
 

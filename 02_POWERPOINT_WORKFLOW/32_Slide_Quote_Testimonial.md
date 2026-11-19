@@ -1,6 +1,6 @@
 # Slide: Quote/Testimonial
 
-**Phase 2 Workflow Layer — Document 32**
+**PowerPoint Workflow — Document 32**
 
 ---
 

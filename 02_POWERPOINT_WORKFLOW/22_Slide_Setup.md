@@ -1,6 +1,6 @@
 # Slide Setup
 
-**Phase 2 Workflow Layer — Document 22**
+**PowerPoint Workflow — Document 22**
 
 These are the PowerPoint rules for slide size, margins, text and bullets. Use them for every deck. Brand specs (colors, font, logo) are in Docs 05–07.
 

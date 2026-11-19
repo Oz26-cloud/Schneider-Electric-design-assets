@@ -1,6 +1,6 @@
 # Template Selection Guide
 
-**Phase 2 Workflow Layer — Document 24**
+**PowerPoint Workflow — Document 24**
 
 ---
 

@@ -1,6 +1,6 @@
 # Slide: Image Showcase
 
-**Phase 2 Workflow Layer — Document 30**
+**PowerPoint Workflow — Document 30**
 
 ---
 

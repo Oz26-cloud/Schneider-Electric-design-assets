@@ -1,6 +1,6 @@
 # Slide: Title/Cover
 
-**Phase 2 Workflow Layer — Document 25**
+**PowerPoint Workflow — Document 25**
 
 ---
 

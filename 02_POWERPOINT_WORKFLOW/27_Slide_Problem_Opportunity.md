@@ -1,6 +1,6 @@
 # Slide: Problem/Opportunity
 
-**Phase 2 Workflow Layer — Document 27**
+**PowerPoint Workflow — Document 27**
 
 ---
 

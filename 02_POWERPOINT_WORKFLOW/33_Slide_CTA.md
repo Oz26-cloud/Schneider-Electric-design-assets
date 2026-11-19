@@ -1,6 +1,6 @@
 # Slide: Call to Action (CTA)
 
-**Phase 2 Workflow Layer — Document 33**
+**PowerPoint Workflow — Document 33**
 
 ---
 

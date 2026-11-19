@@ -1,6 +1,6 @@
 # Workflow Overview
 
-**Phase 2 Workflow Layer — Document 23**
+**PowerPoint Workflow — Document 23**
 
 ---
 

@@ -1,6 +1,6 @@
 # Slide Elements
 
-**Phase 2 Workflow Layer — Document 21**
+**PowerPoint Workflow — Document 21**
 
 This document holds the PowerPoint rules for placing each brand element on slides: where it goes, how big it is, the slide types it suits, examples, and the step-by-step workflow. The brand specs (what each element is) stay in the Foundation Layer (Docs 07, 09–16, 18).
 

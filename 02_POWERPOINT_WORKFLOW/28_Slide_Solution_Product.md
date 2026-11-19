@@ -1,6 +1,6 @@
 # Slide: Solution/Product
 
-**Phase 2 Workflow Layer — Document 28**
+**PowerPoint Workflow — Document 28**
 
 ---
 
