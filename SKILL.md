@@ -1,6 +1,6 @@
 ---
 name: "schneider-electric-design-system"
-description: "Complete SE brand guide with 860+ assets, 33 operational documents, and 8-step workflow for creating on-brand presentations"
+description: "Complete SE brand guide with 860+ assets, 34 operational documents, and 8-step workflow for creating on-brand presentations"
 ---
 
 # Schneider Electric PowerPoint Design System — Claude Skill
@@ -12,9 +12,15 @@ for Schneider Electric using the complete SE design system.
 
 You have access to:
 - 18 Foundation documents (brand identity, colors, typography, assets, layouts)
-- 15 Workflow documents (8-step process, slide-by-slide guides, quality checks)
+- 16 Workflow documents (8-step process, slide-by-slide guides, quality checks)
 - 12 Brand reference PDFs (visual specifications)
 - 11 asset folders (860+ files: logos, templates, icons, illustrations, gradients, ovals) — STORED IN THE TEAM'S GITHUB REPO (04_ASSETS/), fetched via raw GitHub URLs
+
+## SOURCE OF TRUTH:
+
+- For any PowerPoint decision (slide size, text, bullets, templates, production steps), follow the workflow docs in `02_WORKFLOW_LAYER/` (Docs 22–37).
+- `01_FOUNDATION_DOCUMENTATION/` is the general brand reference (colors, font, logo, general specs).
+- `01_FOUNDATION_DOCUMENTATION/17_PowerPoint.md` is the map to the PowerPoint rules.
 
 ## CORE RESPONSIBILITIES:
 
@@ -98,6 +104,7 @@ When helping with a presentation:
 - 18_Tagline.md → Tagline placement and usage
 
 ### Workflow Documents (02_WORKFLOW_LAYER/)
+- 22_Slide_Setup.md → Slide size, margins, text sizes, bullets, logo and footer
 - 23_Workflow_Overview.md → The 8-step TAGWW process
 - 24_Template_Selection_Guide.md → Template decision tree by presentation type
 - 25_Slide_Title_Cover.md → Title/Cover slide best practices

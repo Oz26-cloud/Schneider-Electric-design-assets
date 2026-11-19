@@ -2,7 +2,7 @@
 
 **Phase 1A Foundation Layer — Document 17**
 
-This document is a map. The rules for producing PowerPoint decks are in the workflow documents below. Read them in order, from Doc 23 to Doc 37.
+This document is a map. The rules for producing PowerPoint decks are in the workflow documents below. Read them in order, from Doc 22 to Doc 37.
 
 ---
 
@@ -10,6 +10,7 @@ This document is a map. The rules for producing PowerPoint decks are in the work
 
 | Doc | File | What it covers |
 |-----|------|----------------|
+| 22 | `02_WORKFLOW_LAYER/22_Slide_Setup.md` | Slide size, margins, text sizes, bullets and logo |
 | 23 | `02_WORKFLOW_LAYER/23_Workflow_Overview.md` | The 8-step TAGWW process, from brief to send |
 | 24 | `02_WORKFLOW_LAYER/24_Template_Selection_Guide.md` | Choosing the template (decision tree) |
 | 25 | `02_WORKFLOW_LAYER/25_Slide_Title_Cover.md` | Title and cover slides |
