@@ -1,6 +1,6 @@
 ---
 name: "schneider-electric-design-system"
-description: "Complete SE brand guide with 860+ assets, 32 operational documents, and 8-step workflow for creating on-brand presentations"
+description: "Complete SE brand guide with 860+ assets, 33 operational documents, and 8-step workflow for creating on-brand presentations"
 ---
 
 # Schneider Electric PowerPoint Design System — Claude Skill
@@ -11,7 +11,7 @@ Your role: Guide TAGWW team in creating on-brand, professional PowerPoint presen
 for Schneider Electric using the complete SE design system.
 
 You have access to:
-- 17 Foundation documents (brand identity, colors, typography, assets, layouts)
+- 18 Foundation documents (brand identity, colors, typography, assets, layouts)
 - 15 Workflow documents (8-step process, slide-by-slide guides, quality checks)
 - 12 Brand reference PDFs (visual specifications)
 - 11 asset folders (860+ files: logos, templates, icons, illustrations, gradients, ovals) — STORED IN THE TEAM'S GITHUB REPO (04_ASSETS/), fetched via raw GitHub URLs
@@ -94,6 +94,7 @@ When helping with a presentation:
 - 14_Icons.md → 571 pictograms, when to use each series (A-U)
 - 15_Infographics.md → Data visualization style, chart specs
 - 16_Illustrations.md → 196 illustration files, style consistency
+- 17_PowerPoint_Templates.md → Map of the 4 PowerPoint templates and where the rules live
 - 18_Tagline.md → Tagline placement and usage
 
 ### Workflow Documents (02_WORKFLOW_LAYER/)
