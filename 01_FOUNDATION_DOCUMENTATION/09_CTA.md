@@ -273,10 +273,10 @@ Button minimum size for touch screens:
 | CTA Type | Background | Text Color | Contrast | Use Case |
 |----------|-----------|-----------|----------|----------|
 | **Primary** | Life Green (#3DCD58) | Dark Green | 7.0:1 | Main action |
-| **Secondary** | Signature Green (#009530) | White | 5.2:1 | Supporting action |
-| **Tertiary** | Electric Green (#5EFF59) | Dark Green | 9.8:1 | Subtle action |
-| **Alternative** | White | Dark Green | 15.2:1 | Dark backgrounds |
-| **Text link** | Transparent | Life/Signature Green | Varies | Inline links |
+| **Secondary** | Signature Green (#009530) | White | 3.9:1 (large bold text only) | Supporting action |
+| **Tertiary** | Electric Green (#5EFF59) | Dark Green | 11.0:1 | Subtle action |
+| **Alternative** | White | Dark Green | 14.5:1 | Dark backgrounds |
+| **Text link** | Transparent (on white) | Dark Green | 14.5:1 | Inline links |
 
 ---
 
