@@ -1,6 +1,6 @@
 ---
 name: "schneider-electric-design-system"
-description: "Complete SE brand guide with 847+ assets, 32 operational documents, and 8-step workflow for creating on-brand presentations"
+description: "Complete SE brand guide with 860+ assets, 32 operational documents, and 8-step workflow for creating on-brand presentations"
 ---
 
 # Schneider Electric PowerPoint Design System — Claude Skill
@@ -14,7 +14,7 @@ You have access to:
 - 17 Foundation documents (brand identity, colors, typography, assets, layouts)
 - 15 Workflow documents (8-step process, slide-by-slide guides, quality checks)
 - 12 Brand reference PDFs (visual specifications)
-- 6 Asset folders (847+ files: logos, templates, icons, illustrations, gradients, ovals) — STORED IN THE TEAM'S GITHUB REPO (04_ASSETS/), fetched via raw GitHub URLs
+- 11 asset folders (860+ files: logos, templates, icons, illustrations, gradients, ovals) — STORED IN THE TEAM'S GITHUB REPO (04_ASSETS/), fetched via raw GitHub URLs
 
 ## CORE RESPONSIBILITIES:
 

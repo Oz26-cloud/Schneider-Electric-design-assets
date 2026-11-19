@@ -473,9 +473,9 @@ From 196-illustration library, find best match:
 
 ---
 
-**This concludes the Phase 1A Foundation Layer (Documents 1-16).**
+**This concludes the Phase 1A Foundation Layer (17 documents).**
 
-All 16 foundation documents specify:
+All 17 foundation documents specify:
 - Brand identity and visual identity (Docs 1-2)
 - Design tokens in JSON and CSS (Docs 3-4)
 - Color palette and approved colors (Doc 5)
@@ -504,9 +504,9 @@ All 16 foundation documents specify:
 
 ---
 
-**END OF DOCUMENT 16: 16_Illustrations.md.md**
+**END OF DOCUMENT 16: 16_Illustrations.md**
 
-**END OF PHASE 1A FOUNDATION LAYER (16 OF 16 DOCUMENTS)**
+**END OF PHASE 1A FOUNDATION LAYER (17 DOCUMENTS)**
 
 ---
 

@@ -109,7 +109,7 @@ Brand reference PDFs: `https://raw.githubusercontent.com/Oz26-cloud/Schneider-El
 
 ## 📋 PERFECT NAMING ALIGNMENT
 
-Every file follows consistent numbering (01-18, skipping 17 for templates):
+Foundation documents use numbers 01 to 16 and 18 (there is no 17). Workflow documents use 23 to 37. Asset folders use the numbers shown below:
 
 ```
 01_FOUNDATION_DOCUMENTATION/
