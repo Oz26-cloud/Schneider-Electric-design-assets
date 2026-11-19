@@ -1,5 +1,5 @@
 ---
-name: "schneider-electric-powerpoint-design-system"
+name: "schneider-electric-design-system"
 description: "Complete SE brand guide with 847+ assets, 32 operational documents, and 8-step workflow for creating on-brand presentations"
 ---
 
