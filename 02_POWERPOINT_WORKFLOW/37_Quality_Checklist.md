@@ -79,7 +79,7 @@ This is your final gate. Nothing goes to client without passing all checks.
 
 - ☐ All text is readable from 20 feet away
 - ☐ Text contrast meets 4.5:1 minimum (WCAG AA standard)
-- ☐ White template: Dark Green or Life Green text on white (high contrast)
+- ☐ White template: headings in SE Dark Green (#0A2F24) or SE Signature Green (#009530); body text in SE Dark Green (#0A2F24)
 - ☐ Dark Green template: White or Light Green text on dark green (high contrast)
 - ☐ Light Green template: Dark Green text on light green (tested contrast)
 - ☐ Gradient template: White or Electric Green text on gradient (4.5:1 verified)

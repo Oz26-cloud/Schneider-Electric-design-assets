@@ -68,7 +68,7 @@ Logo placement, sizing, and clear space are automatically handled by PowerPoint 
 - Primary action on white slide → Life Green button
 - Secondary action on white slide → Signature Green button
 - Action on dark background → White button
-- Text link → Life Green or Signature Green underlined text
+- Text link → Dark Green underlined text
 
 #### Step 3: Write CTA Text
 
@@ -105,20 +105,20 @@ Logo placement, sizing, and clear space are automatically handled by PowerPoint 
 #### Dark Green Background Template
 
 **Primary CTA:** White button, Dark Green text, center placement
-**Text CTA:** Life Green underlined link, integrated with body text
+**Text CTA:** Dark Green underlined link, integrated with body text
 
 **Example:**
 - Button: White background, Dark Green text (#0A2F24), "Request demo"
-- Text link: "Learn more" in Life Green with underline
+- Text link: "Learn more" in Dark Green with underline
 
 #### Light Green Background Template
 
 **Primary CTA:** Signature Green button, white text, lower-right placement
-**Text CTA:** Life Green link, subtle styling
+**Text CTA:** Dark Green link, subtle styling
 
 **Example:**
 - Button: Signature Green (#009530), white text, "Get started"
-- Text link: "See pricing" in Life Green
+- Text link: "See pricing" in Dark Green
 
 #### Gradient Background Template
 

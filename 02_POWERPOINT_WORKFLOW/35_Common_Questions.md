@@ -32,7 +32,7 @@ Answers to the questions that come up while designing SE presentations.
 **By template:**
 
 **White Template:**
-- Headings: Dark Green (#0A2F24) or Life Green (#3DCD58)
+- Headings: Dark Green (#0A2F24) or Signature Green (#009530)
 - Body text: Dark Green
 - Accents: Signature Green (#009530)
 

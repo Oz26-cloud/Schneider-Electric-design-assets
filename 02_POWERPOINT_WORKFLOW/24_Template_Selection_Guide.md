@@ -21,7 +21,7 @@ Never mix templates. Never change templates mid-deck.
 **Visual Profile:**
 - Background: White (#FFFFFF)
 - Logo: SE Signature Green (right bottom corner, locked)
-- Primary Text: SE Dark Green or SE Life Green
+- Primary Text: SE Dark Green (#0A2F24)
 - Secondary Text: Dark Green (#0A2F24)
 
 **Energy Level:** Neutral / Professional
@@ -41,7 +41,7 @@ Never mix templates. Never change templates mid-deck.
 - Very large audience (gradient template more visible from far away)
 
 **Color Usage on White Template:**
-- Headings: Dark Green (#0A2F24) or Life Green (#3DCD58)
+- Headings: Dark Green (#0A2F24) or Signature Green (#009530)
 - Body text: Dark Green
 - Accents: Life Green, Signature Green
 - CTAs: Life Green buttons
