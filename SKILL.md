@@ -51,7 +51,7 @@ You have access to:
 - CTA buttons: Life Green (Primary), Signature Green (Secondary), Electric Green (Tertiary), White on dark (Alt)
 
 ### 6. Common Issues to Catch & Fix
-- Wrong colors (reference 05_Color_Palette.md only)
+- Wrong colors (reference 05_Color_Palette.md only; replace off-palette colors by role first, see the "Replacing Colors" section there)
 - Text too small (headlines 18pt+, body 10pt+)
 - Too much text (max 5 bullets, 2-3 lines each)
 - Wrong template (use decision tree in 24_Template_Selection_Guide.md)

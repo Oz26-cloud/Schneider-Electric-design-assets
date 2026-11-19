@@ -111,3 +111,28 @@ See related documents:
 **The color system ensures every presentation maintains brand consistency while remaining visually engaging and accessible.**
 
 See **03_BRAND_VISUAL_REFERENCES/05_Color_Palette.pdf** for visual reference.
+
+---
+
+## Replacing Colors Not in the Palette
+
+Use this when a deck has a color that is not on the approved list above.
+
+**Step 1: Work out the color's role.** Is it text, a background, a button, an accent or a shape?
+
+**Step 2: Replace it with the approved color for that role.**
+
+| Role | Replace with |
+|------|--------------|
+| Heading or body text on white | SE Dark Green `#0A2F24` |
+| Text on a dark background | SE Light Green `#E7FFD9` or White |
+| Green accent or highlight | SE Life Green `#3DCD58` |
+| Primary button | SE Life Green `#3DCD58` (see Doc 09) |
+| Background | White, SE Light Green `#E7FFD9` or SE Dark Green `#0A2F24`, to match the template |
+| Other accents | SE Amber, Cyan, Blue or Red, as accents only |
+
+**Step 3: Only if no role applies, use the closest approved color** and flag it for review. Do not match by hue alone. A bright green chosen for text can fail the 4.5:1 contrast rule.
+
+**Do not change:** photos, the logo, or the template background.
+
+**Report each change:** slide, element, old color, new color, and whether it was a role match or a closest match.
