@@ -94,7 +94,7 @@ When helping with a presentation:
 - 14_Icons.md → 571 pictograms, when to use each series (A-U)
 - 15_Infographics.md → Data visualization style, chart specs
 - 16_Illustrations.md → 196 illustration files, style consistency
-- 17_PowerPoint_Templates.md → Map of the 4 PowerPoint templates and where the rules live
+- 17_PowerPoint.md → Map of the PowerPoint production rules (Docs 23–37)
 - 18_Tagline.md → Tagline placement and usage
 
 ### Workflow Documents (02_WORKFLOW_LAYER/)

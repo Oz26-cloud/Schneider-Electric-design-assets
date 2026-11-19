@@ -26,7 +26,7 @@
 - 14_Icons.md
 - 15_Infographics.md
 - 16_Illustrations.md
-- 17_PowerPoint_Templates.md
+- 17_PowerPoint.md
 - 18_Tagline.md
 
 ### 03_BRAND_VISUAL_REFERENCES/
@@ -130,7 +130,7 @@ Foundation documents use numbers 01 to 18. Workflow documents use 23 to 37. Asse
 ├── 14_Icons.md
 ├── 15_Infographics.md
 ├── 16_Illustrations.md
-├── 17_PowerPoint_Templates.md
+├── 17_PowerPoint.md
 └── 18_Tagline.md
 
 03_BRAND_VISUAL_REFERENCES/

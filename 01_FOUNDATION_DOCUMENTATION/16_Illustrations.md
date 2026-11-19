@@ -490,7 +490,7 @@ All 18 foundation documents specify:
 - Icons and pictogram library (Doc 14)
 - Infographic design and data visualization (Doc 15)
 - Illustration style and character design (Doc 16)
-- PowerPoint template map and file locations (Doc 17)
+- PowerPoint production map and workflow order (Doc 17)
 - Tagline placement (Doc 18)
 
 **Total assets specified:**

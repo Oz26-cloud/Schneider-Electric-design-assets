@@ -1,0 +1,37 @@
+# PowerPoint
+
+**Phase 1A Foundation Layer — Document 17**
+
+This document is a map. The rules for producing PowerPoint decks are in the workflow documents below. Read them in order, from Doc 23 to Doc 37.
+
+---
+
+## PowerPoint Production Rules (Workflow Layer)
+
+| Doc | File | What it covers |
+|-----|------|----------------|
+| 23 | `02_WORKFLOW_LAYER/23_Workflow_Overview.md` | The 8-step TAGWW process, from brief to send |
+| 24 | `02_WORKFLOW_LAYER/24_Template_Selection_Guide.md` | Choosing the template (decision tree) |
+| 25 | `02_WORKFLOW_LAYER/25_Slide_Title_Cover.md` | Title and cover slides |
+| 26 | `02_WORKFLOW_LAYER/26_Slide_Agenda_Overview.md` | Agenda and overview slides |
+| 27 | `02_WORKFLOW_LAYER/27_Slide_Problem_Opportunity.md` | Problem and opportunity slides |
+| 28 | `02_WORKFLOW_LAYER/28_Slide_Solution_Product.md` | Solution and product slides |
+| 29 | `02_WORKFLOW_LAYER/29_Slide_Data_Chart.md` | Data and chart slides |
+| 30 | `02_WORKFLOW_LAYER/30_Slide_Image_Showcase.md` | Image showcase slides |
+| 31 | `02_WORKFLOW_LAYER/31_Slide_Process_Timeline.md` | Process and timeline slides |
+| 32 | `02_WORKFLOW_LAYER/32_Slide_Quote_Testimonial.md` | Quote and testimonial slides |
+| 33 | `02_WORKFLOW_LAYER/33_Slide_CTA.md` | Call-to-action slides |
+| 34 | `02_WORKFLOW_LAYER/34_Slide_Closing.md` | Closing slides |
+| 35 | `02_WORKFLOW_LAYER/35_Common_Questions.md` | The most-asked questions |
+| 36 | `02_WORKFLOW_LAYER/36_Common_Mistakes.md` | Common mistakes and how to fix them |
+| 37 | `02_WORKFLOW_LAYER/37_Quality_Checklist.md` | Checklist to run before sending |
+
+---
+
+## Brand Specs the Rules Use (Foundation Layer)
+
+- Colors: Doc 05
+- Typography (Poppins): Doc 06
+- Logo: Doc 07
+- Layout and margins: Doc 08
+- CTA buttons: Doc 09
