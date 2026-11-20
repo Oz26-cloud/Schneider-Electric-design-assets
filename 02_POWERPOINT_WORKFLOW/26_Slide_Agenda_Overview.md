@@ -45,7 +45,7 @@ Topic 1 → Topic 2 → Topic 3 → Topic 4
 
 ### HEADLINE
 - **Text:** "Agenda", "Today's Topics", "What You'll Learn", or similar
-- **Font:** Poppins SemiBold, 18-22pt
+- **Font:** Poppins SemiBold, 20-28pt
 - **Color:** Template-dependent primary color
 
 ### LIST ITEMS
