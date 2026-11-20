@@ -49,7 +49,7 @@ This is your final gate. Nothing goes to client without passing all checks.
 
 - ☐ Poppins font used exclusively (never substituted)
 - ☐ Headline size consistent (18-22pt)
-- ☐ Body text size consistent (10-14pt minimum)
+- ☐ Body copy size consistent (8–12pt)
 - ☐ Line heights consistent (0.9 tight, 1.0 normal, 1.2 relaxed)
 - ☐ No all-caps text (use Title Case or Sentence case)
 - ☐ Font weights consistent (Regular for body, SemiBold for headers)
@@ -88,8 +88,8 @@ This is your final gate. Nothing goes to client without passing all checks.
 **Text Legibility**
 
 - ☐ Headline minimum 18pt (readable from distance)
-- ☐ Body text minimum 10pt (standard minimum, 12-14pt preferred)
-- ☐ No text smaller than 10pt (violates readability standard)
+- ☐ Body copy is 8–12pt (10–12pt preferred)
+- ☐ No body copy smaller than 8pt or larger than 12pt
 - ☐ Bullet points are 2-3 lines maximum (not paragraphs)
 - ☐ Maximum 5 bullet points per slide
 - ☐ Line length not exceeding 8.98" (safe content area width)

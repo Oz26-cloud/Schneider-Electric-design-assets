@@ -39,8 +39,8 @@ Italic versions exist for every weight (for example Poppins-LightItalic.ttf, Pop
 | 3XL | 22pt | Largest title size |
 | 2XL | 18pt | Large header |
 | XL | 16pt | Section header |
-| LG | 14pt | Large body |
-| Base | 10pt | Body text (smallest size for body) |
+| LG | 14pt | Subheadings (not body copy) |
+| Base | 10pt | Body copy (8–12pt range, see Doc 22) |
 | SM | 8pt | Small/caption |
 | XS | 6pt | Fine print |
 
@@ -60,7 +60,7 @@ Italic versions exist for every weight (for example Poppins-LightItalic.ttf, Pop
 
 - **Never use all caps** — Use Title Case or Sentence case
 - **Bold sparingly** — key word emphasis only. Use SemiBold for headings
-- **No text under 10pt.**
+- **Body copy: 8–12pt.** Keep body text in this range.
 - **Slide text rules** (line length, sizes on slides, bullets): see `02_POWERPOINT_WORKFLOW/22_Slide_Setup.md`
 
 ---

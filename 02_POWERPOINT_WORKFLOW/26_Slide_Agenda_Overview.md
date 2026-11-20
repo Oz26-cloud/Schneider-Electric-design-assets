@@ -148,7 +148,7 @@ Spacing: 0.5" between items (larger for readability on gradient)
 | Items have inconsistent formatting | Use parallel structure ("The X", "The Y") |
 | Items are too cramped | Space them 0.4-0.5" apart |
 | Too many visuals/icons | Use visual accent only, keep simple |
-| Font too small (12pt) | Minimum 14pt, better 16pt |
+| Font too small (7pt) | Minimum 8pt, better 10pt |
 
 ---
 

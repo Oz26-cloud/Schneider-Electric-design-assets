@@ -94,7 +94,7 @@ Solution/Product slides present the answer. They show how SE solves the problem 
 - ☐ Visual element included (image, icon, or illustration)
 - ☐ Visual is professional and high-quality
 - ☐ All text uses template-correct color
-- ☐ Font is Poppins, 12-14pt minimum
+- ☐ Font is Poppins, 8–12pt
 - ☐ Slide feels visual-forward (50%+ visual, 50%- text)
 - ☐ Solution clearly addresses problem from previous slide
 

@@ -40,7 +40,7 @@ The most common design errors in SE presentations, and how to fix them.
 
 **How to fix:**
 - ✅ Minimum headline: 18pt (better: 20-22pt)
-- ✅ Minimum body text: 10pt (better: 12-14pt)
+- ✅ Body copy: 8–12pt (10–12pt is most readable)
 - ✅ Test from 20 feet away before submitting
 - ✅ If text doesn't fit in size limits, cut content
 
@@ -155,7 +155,7 @@ Before submitting ANY presentation:
 | Mistake | Check | Fix |
 |---------|-------|-----|
 | Wrong colors? | All colors from 05_Color_Palette.md | Replace non-approved colors |
-| Text too small? | Headlines 18pt+, body 10pt+ | Increase font sizes |
+| Text too small? | Headlines 18pt+, body copy 8pt+ | Increase font sizes |
 | Too much text? | Max 5 bullets, 2-3 lines each | Cut content by 50% |
 | Wrong template? | Template matches audience/topic | Redesign in correct template |
 | Logo moved? | Logo in right bottom (standard) | Reset to template position |

@@ -141,9 +141,9 @@ See **14_Icons.md** and **16_Illustrations.md** for specs.
 - Data slide titles: 16-18pt
 - Subheadings: 14-16pt
 
-**Body text:** Poppins Regular, **10pt minimum**
-- Most content: 12-14pt
-- Never smaller than 10pt (readability minimum)
+**Body text:** Poppins Regular, **8–12pt**
+- Most content: 10–12pt
+- Never smaller than 8pt (readability minimum)
 
 **Rule of thumb:** If you can't read it from 20 feet away, it's too small.
 

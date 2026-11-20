@@ -23,7 +23,7 @@ Quote/Testimonial slides add credibility through third-party validation. They sh
 ### ATTRIBUTION
 - **Name:** Client/person who provided testimonial
 - **Title:** Their role or company
-- **Font:** Poppins Regular, 12-14pt
+- **Font:** Poppins Regular, 10–12pt
 - **Color:** Secondary or subdued color
 
 ### VISUAL ELEMENT (Optional)
@@ -98,7 +98,7 @@ Quote/Testimonial slides add credibility through third-party validation. They sh
 - ☐ Attribution includes name, title, company
 - ☐ Photo (if used) is high-quality and clear
 - ☐ Quote text is 16-18pt (readable)
-- ☐ Attribution text is 12-14pt
+- ☐ Attribution text is 8–12pt
 - ☐ All text uses template-correct color
 - ☐ Visual (if included) enhances credibility
 

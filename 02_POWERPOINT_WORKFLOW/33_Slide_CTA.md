@@ -34,7 +34,7 @@ CTA slides tell the audience exactly what to do next. They move from information
 
 ### SUPPORTING TEXT (Optional)
 - **Description:** 1-2 sentences explaining why action matters
-- **Font:** Poppins Regular, 12-14pt
+- **Font:** Poppins Regular, 10–12pt
 - **Purpose:** Create sense of urgency or benefit
 
 ### CONTACT INFORMATION

@@ -30,7 +30,7 @@ The closing slide is the last impression. It reinforces key message and provides
 - **Phone:** Phone number
 - **Website:** Website URL
 - **Social:** LinkedIn, if relevant
-- **Font:** Poppins Regular, 12-14pt
+- **Font:** Poppins Regular, 10–12pt
 
 ### VISUAL ELEMENT
 - SE tagline: "Advancing Energy Tech" (optional)
@@ -105,7 +105,7 @@ Name, Email, Phone, Website
 | Mistake | Fix |
 |---------|-----|
 | No contact info provided | Include name, email, phone, website |
-| Contact info too small (10pt) | Minimum 12pt, better 14pt |
+| Contact info too small (7pt) | Minimum 8pt, better 10pt |
 | Tagline missing | Include "Advancing Energy Tech" |
 | Too much text on slide | Keep it minimal and scannable |
 | Logo position wrong | Ensure locked to template position |
@@ -120,7 +120,7 @@ Name, Email, Phone, Website
 - ☐ Email address included
 - ☐ Phone number included
 - ☐ Website URL included
-- ☐ All text is 12-14pt minimum
+- ☐ Body text is 8–12pt
 - ☐ All contact info is clearly readable
 - ☐ Tagline "Advancing Energy Tech" included
 - ☐ Logo position is correct (template-locked)
