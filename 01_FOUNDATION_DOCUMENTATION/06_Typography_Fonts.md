@@ -36,8 +36,8 @@ Italic versions exist for every weight (for example Poppins-LightItalic.ttf, Pop
 
 | Size | Points | Usage |
 |------|--------|-------|
-| 3XL | 22pt | Largest title size |
-| 2XL | 18pt | Large header |
+| 3XL | 28pt | Largest title size |
+| 2XL | 20pt | Headline minimum |
 | XL | 16pt | Section header |
 | LG | 14pt | Subheadings (not body copy) |
 | Base | 10pt | Body copy (8–12pt range, see Doc 22) |

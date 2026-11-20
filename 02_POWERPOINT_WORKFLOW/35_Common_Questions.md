@@ -136,9 +136,9 @@ See **14_Icons.md** and **16_Illustrations.md** for specs.
 
 **Answer:** 
 
-**Slide titles:** Poppins SemiBold, **22pt maximum**
+**Slide titles:** Poppins SemiBold, **28pt maximum**
 - Most slides: 18-20pt
-- Data slide titles: 16-18pt
+- Data slide titles: 20-28pt
 - Subheadings: 14-16pt
 
 **Body text:** Poppins Regular, **8–12pt**
@@ -178,7 +178,7 @@ See **06_Typography_Fonts.md** for complete typography system.
 | Can I use this image? | Only from approved assets or SE sources | 30_Slide_Image_Showcase.md |
 | How layout data? | Choose chart type matching data | 29_Slide_Data_Chart.md |
 | Illustration or icon? | Use both strategically (see rules) | 14_Icons.md & 16_Illustrations.md |
-| Headline size? | 22pt max, minimum 18pt | 06_Typography_Fonts.md |
+| Headline size? | 28pt max, minimum 20pt | 06_Typography_Fonts.md |
 | Text per slide? | 5 bullets max, 2-3 lines each | 25-34_Slide_[Type].md |
 
 ---

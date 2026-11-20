@@ -48,7 +48,7 @@ This is your final gate. Nothing goes to client without passing all checks.
 **Typography**
 
 - ☐ Poppins font used exclusively (never substituted)
-- ☐ Headline size consistent (18-22pt)
+- ☐ Headline size consistent (20–28pt)
 - ☐ Body copy size consistent (8–12pt)
 - ☐ Line heights consistent (0.9 tight, 1.0 normal, 1.2 relaxed)
 - ☐ No all-caps text (use Title Case or Sentence case)
@@ -87,7 +87,7 @@ This is your final gate. Nothing goes to client without passing all checks.
 
 **Text Legibility**
 
-- ☐ Headline minimum 18pt (readable from distance)
+- ☐ Headline minimum 20pt (readable from distance)
 - ☐ Body copy is 8–12pt (10–12pt preferred)
 - ☐ No body copy smaller than 8pt or larger than 12pt
 - ☐ Bullet points are 2-3 lines maximum (not paragraphs)

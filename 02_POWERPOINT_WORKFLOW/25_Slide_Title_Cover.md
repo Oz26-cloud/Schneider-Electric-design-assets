@@ -18,7 +18,7 @@ The title/cover slide is the first impression. It establishes brand, tone, and c
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │    [MAIN HEADLINE]                                      │
-│    (Poppins SemiBold, 22pt max)                        │
+│    (Poppins SemiBold, 28pt max)                        │
 │                                                         │
 │    [Subheadline / Context]                             │
 │    (Poppins Regular, 14-18pt)                          │
@@ -37,7 +37,7 @@ The title/cover slide is the first impression. It establishes brand, tone, and c
 ### MAIN HEADLINE
 - **Text:** Clear, bold statement of presentation topic
 - **Font:** Poppins SemiBold
-- **Size:** 18-22pt (max 22pt)
+- **Size:** 20-28pt (max 28pt)
 - **Color:** Template-dependent (see Template Color Guide)
 - **Length:** Max 12 words (shorter is better)
 
@@ -149,7 +149,7 @@ Footer: White text
 | Mistake | Why It's Wrong | Fix |
 |---------|---------------|-----|
 | Headline is too long (20+ words) | Hard to read, no impact | Cut to 12 words, remove filler |
-| Text is too small (14pt headline) | Can't read from audience distance | Minimum 18pt, better 20-22pt |
+| Text is too small (14pt headline) | Can't read from audience distance | Minimum 20pt, better 24-28pt |
 | Mixed colors (3+ colors on slide) | Looks chaotic, amateur | Use max 2 colors + white/neutral |
 | Too much visual clutter | Distracts from headline | Use ONE visual element, keep simple |
 | Logo oversized | Competes with message | Keep logo locked in template size |

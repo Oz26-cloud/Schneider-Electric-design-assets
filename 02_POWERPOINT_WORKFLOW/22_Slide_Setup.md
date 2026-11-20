@@ -33,7 +33,7 @@ Layouts use a six-column grid.
 
 ## Text on Slides
 
-- **Headline:** 18–22pt, Poppins SemiBold. Use 20–22pt where possible.
+- **Headline:** 20–28pt, Poppins SemiBold. Use 22–28pt where possible.
 - **Body copy:** 8–12pt, Poppins Regular. Use 10–12pt where possible.
 - **Range:** body copy 8–12pt. Flag body text outside this range for review. Do not resize it without approval.
 - **Bold:** only for key word emphasis.

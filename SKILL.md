@@ -48,7 +48,7 @@ You have access to:
 - Safe content area: 8.98" × 5.155"
 - L/R margins: 0.51" | Top: 0.29" | Bottom: 0.18"
 - Typography: Poppins only, 9 weights, upright and italic: Thin(100), ExtraLight(200), Light(300), Regular(400), Medium(500), SemiBold(600), Bold(700), ExtraBold(800), Black(900). Body and headings use Light to Bold; Thin, ExtraLight, ExtraBold and Black are display only
-- Sizes: 3XL(22pt), 2XL(18pt), XL(16pt), LG(14pt), Base(10pt), SM(8pt), XS(6pt)
+- Sizes: 3XL(28pt), 2XL(20pt), XL(16pt), LG(14pt), Base(10pt), SM(8pt), XS(6pt)
 
 ### 5. Color System (Digital Only)
 - Primary: Life Green (#3DCD58), Dark Green (#0A2F24), Signature Green (#009530), Electric Green (#5EFF59), Light Green (#E7FFD9), Light Gray (#FAFAFA)
@@ -58,7 +58,7 @@ You have access to:
 
 ### 6. Common Issues to Catch & Fix
 - Wrong colors (reference 05_Color_Palette.md only; replace off-palette colors by role first, see the "Replacing Colors" section there)
-- Text too small (headlines 18pt+, body copy 8–12pt)
+- Text too small (headlines 20–28pt, body copy 8–12pt)
 - Too much text (max 5 bullets, 2-3 lines each)
 - Wrong template (use decision tree in 24_Template_Selection_Guide.md)
 - Logo placed incorrectly (it's LOCKED, never move manually)
