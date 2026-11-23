@@ -113,7 +113,7 @@ This is the standard workflow for designing Schneider Electric presentations at 
 
 1. Choose slide type (title, content, data, image, etc.)
 2. Add headline (20–28pt, Poppins SemiBold)
-3. Add body content (8–12pt, Poppins Regular)
+3. Add body content (7–9pt, Poppins Regular)
 4. Choose visual element (image, icon, illustration, oval, or none)
 5. Apply colors from approved palette only
 6. Check spacing and margins (text stays in safe area)
@@ -195,7 +195,7 @@ This is the standard workflow for designing Schneider Electric presentations at 
 ✅ **Design**
 - One template used (no mixing)
 - One color palette used (no random colors)
-- All text readable (body 8–12pt, headlines 20–28pt)
+- All text readable (body 7–9pt, headlines 20–28pt, captions 6pt)
 - All text within safe area
 - Logo position correct (right bottom or back-cover center)
 - Margins and spacing consistent

@@ -51,7 +51,7 @@ Topic 1 → Topic 2 → Topic 3 → Topic 4
 ### LIST ITEMS
 - **Number of items:** 3-5 items (max 5)
 - **Text per item:** 2-4 words only (max one line)
-- **Font:** Poppins Regular, 14-16pt
+- **Font:** Poppins SemiBold, 14-19pt
 - **Color:** Template-dependent body text color
 - **Format:** Numbered list (1, 2, 3, 4) or bullet points
 
@@ -148,7 +148,7 @@ Spacing: 0.5" between items (larger for readability on gradient)
 | Items have inconsistent formatting | Use parallel structure ("The X", "The Y") |
 | Items are too cramped | Space them 0.4-0.5" apart |
 | Too many visuals/icons | Use visual accent only, keep simple |
-| Font too small (7pt) | Minimum 8pt, better 10pt |
+| Font too small (5pt) | Minimum 6pt, better 7-9pt |
 
 ---
 
@@ -162,7 +162,7 @@ Before moving to Slide 3, confirm:
 - ☐ Items use consistent formatting (parallel structure)
 - ☐ Numbers or bullets used consistently
 - ☐ Items spaced 0.4-0.5" apart (scannable)
-- ☐ Text is 14-16pt minimum (readable)
+- ☐ Agenda items are 14-19pt; body is 7-9pt
 - ☐ All text uses template-correct color
 - ☐ Font is Poppins (never substituted)
 - ☐ Visual accents (if used) are minimal and template-appropriate

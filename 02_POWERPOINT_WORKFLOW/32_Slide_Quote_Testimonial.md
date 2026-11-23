@@ -17,13 +17,13 @@ Quote/Testimonial slides add credibility through third-party validation. They sh
 ### QUOTE/TESTIMONIAL
 - **Format:** Direct quote in quotation marks
 - **Length:** 1-2 sentences maximum (short and punchy)
-- **Font:** Poppins Regular (sometimes Light for elegant feel), 16-18pt
+- **Font:** Poppins SemiBold, 14-19pt
 - **Color:** Template-dependent (use primary or accent color)
 
 ### ATTRIBUTION
 - **Name:** Client/person who provided testimonial
 - **Title:** Their role or company
-- **Font:** Poppins Regular, 10–12pt
+- **Font:** Poppins Regular, 6pt
 - **Color:** Secondary or subdued color
 
 ### VISUAL ELEMENT (Optional)
@@ -97,8 +97,8 @@ Quote/Testimonial slides add credibility through third-party validation. They sh
 - ☐ Quote includes quotation marks
 - ☐ Attribution includes name, title, company
 - ☐ Photo (if used) is high-quality and clear
-- ☐ Quote text is 16-18pt (readable)
-- ☐ Attribution text is 8–12pt
+- ☐ Quote text is 14-19pt
+- ☐ Attribution text is 6pt
 - ☐ All text uses template-correct color
 - ☐ Visual (if included) enhances credibility
 

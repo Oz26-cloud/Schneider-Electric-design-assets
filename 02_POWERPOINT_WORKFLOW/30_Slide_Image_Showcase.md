@@ -64,7 +64,7 @@ Image showcase slides let visuals do the talking. They show the solution in acti
 If text overlays image:
 - **Contrast:** Minimum 4.5:1 (use white or dark green text)
 - **Font:** Poppins SemiBold or Regular
-- **Size:** 14-18pt minimum (readable from far away)
+- **Size:** 14-19pt SemiBold (readable from far away)
 - **Placement:** Top or bottom of image (not center-buried)
 - **Background:** Subtle dark overlay behind text (optional, for contrast)
 
@@ -111,7 +111,7 @@ If text overlays image:
 - ☐ Image is brand-compliant (no competitor products)
 - ☐ Image directly supports message/topic
 - ☐ If text overlays: contrast is 4.5:1 minimum
-- ☐ If text overlays: text is 14-18pt minimum
+- ☐ If text overlays: text is 14-19pt SemiBold
 - ☐ Layout is clean and uncluttered
 - ☐ Logo position correct (right bottom, locked)
 - ☐ No watermarks or third-party logos visible

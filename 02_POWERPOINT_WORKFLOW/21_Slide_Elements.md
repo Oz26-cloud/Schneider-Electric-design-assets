@@ -1157,6 +1157,6 @@ From 196-illustration library, find best match:
 
 **Standard position:** Bottom right of slide, above or integrated with logo area
 
-**Minimum size:** 12pt Poppins Regular
-**Recommended size:** 14-18pt Poppins Regular
+**Minimum size:** 7pt Poppins Regular
+**Recommended size:** 7–9pt Poppins Regular
 

@@ -26,7 +26,7 @@ Data/Chart slides provide proof. They show results, trends, comparisons, or outc
 
 ### HEADLINE
 - **Text:** Data insight or result statement
-- **Font:** Poppins SemiBold, 16-18pt
+- **Font:** Poppins SemiBold, 20-28pt
 - **Examples:**
   - "Energy Costs Reduced by 30% in Year One"
   - "Performance Metrics: 2024 vs. 2025"
@@ -41,13 +41,13 @@ Data/Chart slides provide proof. They show results, trends, comparisons, or outc
 
 ### SUPPORTING TEXT
 - **Insight/Callout:** 1-2 sentences explaining chart
-- **Font:** Poppins Regular, 11-13pt
+- **Font:** Poppins Regular, 7–9pt
 - **Placement:** Below chart or in corner callout box
 - **Purpose:** Highlight key finding, not repeat chart data
 
 ### SOURCE CITATION
 - **Text:** "Source: [Company/Study]"
-- **Font:** Poppins Light, 9pt
+- **Font:** Poppins Regular, 7–9pt
 - **Placement:** Bottom corner, subdued color
 
 ---

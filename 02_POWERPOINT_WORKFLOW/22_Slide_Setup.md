@@ -33,13 +33,19 @@ Layouts use a six-column grid.
 
 ## Text on Slides
 
-- **Headline:** 20–28pt, Poppins SemiBold. Use 22–28pt where possible.
-- **Body copy:** 8–12pt, Poppins Regular. Use 10–12pt where possible.
-- **Range:** body copy 8–12pt. Flag body text outside this range for review. Do not resize it without approval.
-- **Bold:** only for key word emphasis.
-- **Case:** no all-caps text. Use Title Case or Sentence case.
-- **Line height:** 0.9 for headlines, 1.0 for body text (see Doc 06).
-- **Alignment:** body text left-aligned, titles centered.
+| Level | Used for | Size | Weight | White template | Dark Green template | Light Green template | Gradient template |
+|---|---|---|---|---|---|---|---|
+| H1 Headline | Slide title | 20–28pt | SemiBold | Signature Green `#009530` | Electric Green `#5EFF59`, Light Green `#E7FFD9` or White `#FFFFFF` | Dark Green `#0A2F24` | White `#FFFFFF`, or Electric Green `#5EFF59` for emphasis |
+| H2 Heading | Section headers, subheadings, card headings | 14–19pt | SemiBold | Dark Green `#0A2F24` | Light Green `#E7FFD9` or White `#FFFFFF` | Dark Green `#0A2F24` | White `#FFFFFF` |
+| Body | Body copy | 7–9pt | Regular | Dark Green `#0A2F24` | Light Green `#E7FFD9` or White `#FFFFFF` | Dark Green `#0A2F24` | White `#FFFFFF` |
+| Small | Captions, footers | 6pt | Regular | Dark Green `#0A2F24` | Light Green `#E7FFD9` or White `#FFFFFF` | Dark Green `#0A2F24` | White `#FFFFFF` |
+| Kicker | Label above a title | 6pt | SemiBold | Dark Green `#0A2F24` | Electric Green `#5EFF59` | Dark Green `#0A2F24` | White `#FFFFFF` |
+
+Rules that go with the table:
+- Titles are always H1. Subheadings and card headings are always H2.
+- Body copy is 7–9pt. Flag body text outside this range for review, and don't resize it without approval.
+- Captions, footers and kickers are 6pt. Don't use 6pt for body copy.
+- Text on a dark background uses Light Green, White or Electric Green, never Dark Green.
 
 ---
 

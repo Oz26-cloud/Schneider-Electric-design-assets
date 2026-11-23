@@ -16,7 +16,7 @@ CTA slides tell the audience exactly what to do next. They move from information
 
 ### HEADLINE
 - **Text:** Action-oriented statement
-- **Font:** Poppins SemiBold, 18-20pt
+- **Font:** Poppins SemiBold, 20-28pt
 - **Examples:**
   - "Let's Start Your Transformation"
   - "Ready to Optimize?"
@@ -34,14 +34,14 @@ CTA slides tell the audience exactly what to do next. They move from information
 
 ### SUPPORTING TEXT (Optional)
 - **Description:** 1-2 sentences explaining why action matters
-- **Font:** Poppins Regular, 10–12pt
+- **Font:** Poppins Regular, 7–9pt
 - **Purpose:** Create sense of urgency or benefit
 
 ### CONTACT INFORMATION
 - **Email:** contact@schneider-electric.com
 - **Phone:** +1 (555) 123-4567
 - **Website:** www.schneider-electric.com
-- **Font:** Poppins Regular, 11-12pt
+- **Font:** Poppins Regular, 7–9pt
 
 ---
 
@@ -52,14 +52,14 @@ CTA slides tell the audience exactly what to do next. They move from information
 **Primary CTA Button:**
 - Background: Life Green (#3DCD58)
 - Text: White or Dark Green
-- Font: Poppins Regular, 12pt
+- Font: Poppins Regular, 7–9pt
 - Shape: Capsule (rounded)
 - Stroke: 1pt, 2mm radius
 
 **Secondary CTA Button (if needed):**
 - Background: Signature Green (#009530)
 - Text: White
-- Font: Poppins Regular, 12pt
+- Font: Poppins Regular, 7–9pt
 
 ---
 

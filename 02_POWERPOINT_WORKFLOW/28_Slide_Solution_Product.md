@@ -16,7 +16,7 @@ Solution/Product slides present the answer. They show how SE solves the problem 
 
 ### HEADLINE
 - **Text:** Solution or product name/statement
-- **Font:** Poppins SemiBold, 18-20pt
+- **Font:** Poppins SemiBold, 20-28pt
 - **Examples:**
   - "Our Integrated Energy Management Platform"
   - "The Power to Optimize"
@@ -94,7 +94,7 @@ Solution/Product slides present the answer. They show how SE solves the problem 
 - ☐ Visual element included (image, icon, or illustration)
 - ☐ Visual is professional and high-quality
 - ☐ All text uses template-correct color
-- ☐ Font is Poppins, 8–12pt
+- ☐ Font is Poppins, 7–9pt
 - ☐ Slide feels visual-forward (50%+ visual, 50%- text)
 - ☐ Solution clearly addresses problem from previous slide
 

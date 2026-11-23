@@ -51,7 +51,7 @@ Q4: Phase 4
 
 ### HEADLINE
 - **Text:** Process name or timeline label
-- **Font:** Poppins SemiBold, 16-18pt
+- **Font:** Poppins SemiBold, 20-28pt
 - **Examples:**
   - "Implementation Timeline"
   - "Our Four-Phase Approach"
@@ -60,7 +60,7 @@ Q4: Phase 4
 ### PROCESS/TIMELINE ELEMENTS
 - **Number of steps:** 3-5 steps maximum
 - **Per step:** Title (2-4 words) + brief description (1 line)
-- **Font:** Poppins Regular, 10–12pt
+- **Font:** Poppins Regular, 7–9pt
 - **Connector:** Arrow or line between steps
 
 ### VISUAL ELEMENTS
@@ -98,7 +98,7 @@ Q4: Phase 4
 | Mistake | Fix |
 |---------|-----|
 | Too many steps (7+) | Limit to 3-5, group related steps |
-| Text too small (7pt) | Minimum 8pt, better 10pt |
+| Text too small (5pt) | Minimum 6pt, better 7–9pt |
 | No icons or visual | Add one icon per step from GitHub repo → 04_ASSETS/ |
 | Steps feel disconnected | Add arrows or lines between steps |
 | Inconsistent styling | All steps same size, color, format |
@@ -114,7 +114,7 @@ Q4: Phase 4
 - ☐ Icons are from approved assets (GitHub repo → 04_ASSETS/14_Icons/)
 - ☐ Connectors (arrows/lines) between steps
 - ☐ Timeline dates included (if relevant)
-- ☐ Body text is 8–12pt
+- ☐ Body text is 7–9pt
 - ☐ All text uses template-correct color
 - ☐ Flow is clear and logical (L→R or T→B)
 - ☐ Styling consistent across all steps

@@ -21,7 +21,7 @@ The closing slide is the last impression. It reinforces key message and provides
 
 ### KEY TAKEAWAY (Optional)
 - **Text:** 1-2 sentence summary of main message
-- **Font:** Poppins Regular, 14-16pt
+- **Font:** Poppins SemiBold, 14-19pt
 - **Purpose:** Remind audience of primary value
 
 ### CONTACT INFORMATION
@@ -30,7 +30,7 @@ The closing slide is the last impression. It reinforces key message and provides
 - **Phone:** Phone number
 - **Website:** Website URL
 - **Social:** LinkedIn, if relevant
-- **Font:** Poppins Regular, 10–12pt
+- **Font:** Poppins Regular, 7–9pt
 
 ### VISUAL ELEMENT
 - SE tagline: "Advancing Energy Tech" (optional)
@@ -105,7 +105,7 @@ Name, Email, Phone, Website
 | Mistake | Fix |
 |---------|-----|
 | No contact info provided | Include name, email, phone, website |
-| Contact info too small (7pt) | Minimum 8pt, better 10pt |
+| Contact info too small (5pt) | Minimum 6pt, better 7–9pt |
 | Tagline missing | Include "Advancing Energy Tech" |
 | Too much text on slide | Keep it minimal and scannable |
 | Logo position wrong | Ensure locked to template position |
@@ -120,7 +120,7 @@ Name, Email, Phone, Website
 - ☐ Email address included
 - ☐ Phone number included
 - ☐ Website URL included
-- ☐ Body text is 8–12pt
+- ☐ Body text is 7–9pt
 - ☐ All contact info is clearly readable
 - ☐ Tagline "Advancing Energy Tech" included
 - ☐ Logo position is correct (template-locked)

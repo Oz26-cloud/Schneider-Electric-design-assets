@@ -18,10 +18,10 @@ The title/cover slide is the first impression. It establishes brand, tone, and c
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │    [MAIN HEADLINE]                                      │
-│    (Poppins SemiBold, 28pt max)                        │
+│    (Poppins SemiBold, 20-28pt)                       │
 │                                                         │
 │    [Subheadline / Context]                             │
-│    (Poppins Regular, 14-18pt)                          │
+│    (Poppins SemiBold, 14-19pt)                         │
 │                                                         │
 │    [Optional: Tagline, Client Logo, or Visual]         │
 │                                                         │
@@ -37,7 +37,7 @@ The title/cover slide is the first impression. It establishes brand, tone, and c
 ### MAIN HEADLINE
 - **Text:** Clear, bold statement of presentation topic
 - **Font:** Poppins SemiBold
-- **Size:** 20-28pt (max 28pt)
+- **Size:** 20-28pt
 - **Color:** Template-dependent (see Template Color Guide)
 - **Length:** Max 12 words (shorter is better)
 
@@ -49,7 +49,7 @@ The title/cover slide is the first impression. It establishes brand, tone, and c
 ### SUBHEADLINE
 - **Text:** Context or benefit statement
 - **Font:** Poppins Regular
-- **Size:** 14-18pt
+- **Size:** 14-19pt, SemiBold
 - **Color:** Secondary color (darker or lighter depending on template)
 - **Length:** Max 20 words
 - **Optional:** Can be omitted if headline is self-sufficient
@@ -70,7 +70,7 @@ The title/cover slide is the first impression. It establishes brand, tone, and c
 ### FOOTER ELEMENTS
 - Presenter name, date, or client name
 - Minimal text (one line)
-- 8-10pt, light color
+- 7-9pt, light color
 
 ---
 
@@ -163,7 +163,7 @@ Before moving to Slide 2 (Agenda), confirm:
 
 - ☐ Headline is clear and punchy (max 12 words)
 - ☐ Headline uses template-correct color
-- ☐ Subheadline (if used) is readable (14-18pt)
+- ☐ Subheadline (if used) is readable (14-19pt)
 - ☐ Main text uses Poppins font (never substituted)
 - ☐ Visual element (if used) is ONE only, and supports headline
 - ☐ Logo is in correct position (right bottom or template-defined)

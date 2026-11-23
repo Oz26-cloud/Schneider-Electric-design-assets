@@ -16,7 +16,7 @@ Problem/Opportunity slides establish why the presentation matters. They answer: 
 
 ### HEADLINE
 - **Text:** Problem statement or opportunity statement
-- **Font:** Poppins SemiBold, 18-20pt
+- **Font:** Poppins SemiBold, 20-28pt
 - **Examples:** 
   - "Energy costs are rising faster than expected"
   - "Industrial productivity gaps are widening"
@@ -24,7 +24,7 @@ Problem/Opportunity slides establish why the presentation matters. They answer: 
 
 ### BODY TEXT
 - **3-5 key points** supporting the problem/opportunity
-- **Font:** Poppins Regular, 10–12pt
+- **Font:** Poppins Regular, 7–9pt
 - **Format:** Bullet points (not full paragraphs)
 - **Length:** 2-3 lines per bullet maximum
 
@@ -71,7 +71,7 @@ Problem/Opportunity slides establish why the presentation matters. They answer: 
 | Too many bullet points (8+) | Limit to 3-5, combine related items |
 | Problem is too vague | Make specific, quantifiable, relevant to audience |
 | No supporting data | Add 1-2 statistics to strengthen claim |
-| Text is too small (7pt) | Minimum 8pt, better 10pt |
+| Text is too small (5pt) | Minimum 6pt, better 7–9pt |
 | Visual competes with message | Use visual as supporting element only |
 
 ---
@@ -83,7 +83,7 @@ Problem/Opportunity slides establish why the presentation matters. They answer: 
 - ☐ Each bullet is 2-3 lines max
 - ☐ Data/statistics included (where relevant)
 - ☐ All text uses template-correct color
-- ☐ Font is Poppins Regular, 8–12pt
+- ☐ Font is Poppins Regular, 7–9pt
 - ☐ Visual (if used) supports message
 - ☐ Spacing between bullets is consistent (0.4-0.5")
 - ☐ Slide creates relevance/urgency for audience

@@ -137,13 +137,13 @@ See **14_Icons.md** and **16_Illustrations.md** for specs.
 **Answer:** 
 
 **Slide titles:** Poppins SemiBold, **28pt maximum**
-- Most slides: 18-20pt
+- Most slides: 20-28pt
 - Data slide titles: 20-28pt
-- Subheadings: 14-16pt
+- Subheadings: 14-19pt
 
-**Body text:** Poppins Regular, **8–12pt**
-- Most content: 10–12pt
-- Never smaller than 8pt (readability minimum)
+**Body text:** Poppins Regular, **7–9pt**
+- Most content: 7–9pt
+- Body copy is never smaller than 7pt. Captions and footers are 6pt.
 
 **Rule of thumb:** If you can't read it from 20 feet away, it's too small.
 
