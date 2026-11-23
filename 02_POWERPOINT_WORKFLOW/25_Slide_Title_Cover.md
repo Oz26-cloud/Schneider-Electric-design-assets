@@ -90,7 +90,7 @@ Footer: Dark Green text
 ### DARK GREEN TEMPLATE TITLE SLIDE
 
 ```
-Headline: White (#FFFFFF) or Light Green (#E7FFD9)
+Headline (H1): Electric Green (#5EFF59), Light Green (#E7FFD9) or White (#FFFFFF)
 Subheadline: White or Light Green
 Background: Dark Green (#0A2F24)
 Optional visual: White oval (20% opacity) or gradient overlay
@@ -101,8 +101,8 @@ Footer: White text
 ### LIGHT GREEN TEMPLATE TITLE SLIDE
 
 ```
-Headline: Dark Green (#0A2F24) or Signature Green (#009530)
-Subheadline: Dark Green (#0A2F24)
+Headline (H1): Dark Green (#0A2F24)
+Subheadline (H2): Dark Green (#0A2F24)
 Background: Light Green (#E7FFD9)
 Optional visual: SE oval in Signature Green (30% opacity)
 Logo position: Right bottom in Signature Green (locked by template)
@@ -112,7 +112,7 @@ Footer: Dark Green text
 ### GRADIENT TEMPLATE TITLE SLIDE
 
 ```
-Headline: White (#FFFFFF) or Electric Green (#5EFF59)
+Headline (H1): White (#FFFFFF) or Electric Green (#5EFF59)
 Subheadline: White
 Background: One of 4 SE gradients (entire slide)
 Optional visual: Minimal (gradient is visual enough)

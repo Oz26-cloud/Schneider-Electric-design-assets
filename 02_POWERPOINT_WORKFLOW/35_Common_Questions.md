@@ -32,22 +32,22 @@ Answers to the questions that come up while designing SE presentations.
 **By template:**
 
 **White Template:**
-- Headings: Dark Green (#0A2F24) or Signature Green (#009530)
+- H1 headlines: Signature Green (#009530). H2 headings: Dark Green (#0A2F24).
 - Body text: Dark Green
 - Accents: Signature Green (#009530)
 
 **Dark Green Template:**
-- Headings: White or Light Green (#E7FFD9)
+- H1 headlines: Electric Green (#5EFF59), Light Green (#E7FFD9) or White. H2 headings: Light Green or White.
 - Body text: Light Green
 - Accents: White, Electric Green (#5EFF59)
 
 **Light Green Template:**
-- Headings: Dark Green or Signature Green
+- H1 and H2 headings: Dark Green (#0A2F24).
 - Body text: Dark Green
 - Accents: Life Green
 
 **Gradient Template:**
-- Headings: White or Electric Green
+- H1 headlines: White or Electric Green. H2 headings: White.
 - Body text: White
 - Accents: Light Green, Electric Green
 

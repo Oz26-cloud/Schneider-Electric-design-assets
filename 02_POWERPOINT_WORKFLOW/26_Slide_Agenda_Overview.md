@@ -78,7 +78,7 @@ Topic 1 → Topic 2 → Topic 3 → Topic 4
 ### WHITE TEMPLATE AGENDA
 
 ```
-Headline: Dark Green or Life Green
+Headline (H1): Signature Green (#009530)
 List text: Dark Green
 Numbers: Life Green (lighter touch)
 Visual: SE oval (20% opacity, corner) or accent line
@@ -88,7 +88,7 @@ Spacing: 0.4" between items
 ### DARK GREEN TEMPLATE AGENDA
 
 ```
-Headline: White or Light Green
+Headline (H1): Electric Green (#5EFF59), Light Green (#E7FFD9) or White (#FFFFFF)
 List text: Light Green
 Numbers: White
 Visual: Subtle oval (10% opacity) or accent line
@@ -98,7 +98,7 @@ Spacing: 0.4" between items
 ### LIGHT GREEN TEMPLATE AGENDA
 
 ```
-Headline: Dark Green or Signature Green
+Headline (H1): Dark Green (#0A2F24)
 List text: Dark Green
 Numbers: Signature Green
 Visual: SE oval (20% opacity) or accent line

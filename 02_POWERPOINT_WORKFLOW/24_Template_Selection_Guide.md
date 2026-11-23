@@ -41,7 +41,7 @@ Never mix templates. Never change templates mid-deck.
 - Very large audience (gradient template more visible from far away)
 
 **Color Usage on White Template:**
-- Headings: Dark Green (#0A2F24) or Signature Green (#009530)
+- H1 headlines: Signature Green (#009530). H2 headings: Dark Green (#0A2F24).
 - Body text: Dark Green
 - Accents: Life Green, Signature Green
 - CTAs: Life Green buttons
@@ -77,7 +77,7 @@ Never mix templates. Never change templates mid-deck.
 - Printed handouts (dark background doesn't print well)
 
 **Color Usage on Dark Green Template:**
-- Headings: Light Green (#E7FFD9) or White
+- H1 headlines: Electric Green (#5EFF59), Light Green (#E7FFD9) or White. H2 headings: Light Green or White.
 - Body text: Light Green
 - Accents: White, Life Green, Electric Green
 - CTAs: White buttons on dark, or Electric Green for high-impact
@@ -116,7 +116,7 @@ Never mix templates. Never change templates mid-deck.
 - Large blocks of text (can be harder to read on light green)
 
 **Color Usage on Light Green Template:**
-- Headings: Dark Green or Signature Green
+- H1 and H2 headings: Dark Green (#0A2F24).
 - Body text: Dark Green
 - Accents: Life Green, Signature Green
 - CTAs: Life Green buttons with Dark Green text (7.0:1)
@@ -159,8 +159,8 @@ Never mix templates. Never change templates mid-deck.
 - Audience expects minimalist design
 
 **Color Usage on Gradient Template:**
-- Headings: White or Electric Green
-- Body text: White (primary), Electric Green (emphasis)
+- H1 headlines: White or Electric Green. H2 headings: White.
+- Body text: White
 - Accents: Light Green, Electric Green
 - CTAs: White buttons or Electric Green
 - Graphics: Use white, Electric Green, Light Green primarily
