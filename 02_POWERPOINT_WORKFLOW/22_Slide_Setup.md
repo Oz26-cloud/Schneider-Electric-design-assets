@@ -39,7 +39,7 @@ Layouts use a six-column grid.
 | H2 Heading | Section headers, subheadings, card headings | 14–19pt | SemiBold | Dark Green `#0A2F24` | Light Green `#E7FFD9` or White `#FFFFFF` | Dark Green `#0A2F24` | White `#FFFFFF` |
 | Body | Body copy | 7–9pt | Regular | Dark Green `#0A2F24` | Light Green `#E7FFD9` or White `#FFFFFF` | Dark Green `#0A2F24` | White `#FFFFFF` |
 | Small | Captions, footers | 6pt | Regular | Dark Green `#0A2F24` | Light Green `#E7FFD9` or White `#FFFFFF` | Dark Green `#0A2F24` | White `#FFFFFF` |
-| Kicker | Label above a title | 6pt | SemiBold | Dark Green `#0A2F24` | Electric Green `#5EFF59` | Dark Green `#0A2F24` | White `#FFFFFF` |
+| Kicker | Label above a title | 6pt | SemiBold | Signature Green `#009530` | Electric Green `#5EFF59` | Dark Green `#0A2F24` | White `#FFFFFF` |
 
 Rules that go with the table:
 - Titles are always H1. Subheadings and card headings are always H2.
