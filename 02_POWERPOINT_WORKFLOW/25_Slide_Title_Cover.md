@@ -79,8 +79,8 @@ The title/cover slide is the first impression. It establishes brand, tone, and c
 ### WHITE TEMPLATE TITLE SLIDE
 
 ```
-Headline: Dark Green (#0A2F24) or Signature Green (#009530)
-Subheadline: Dark Green (#0A2F24)
+Headline (H1): Signature Green (#009530)
+Subheadline (H2): Dark Green (#0A2F24)
 Background: White
 Optional visual: SE oval in Life Green (40% opacity) or Life Green line
 Logo position: Right bottom (locked by template)
